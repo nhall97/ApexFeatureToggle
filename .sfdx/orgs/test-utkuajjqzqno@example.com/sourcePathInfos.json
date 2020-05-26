@@ -1,0 +1,366 @@
+[
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515671853,
+            "changeTime": 1590515721951,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515671853,
+            "changeTime": 1590515671853,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1590528003582,
+            "changeTime": 1590528003582,
+            "contentHash": "2420936b22f3c881de460db5ee082d43dff6db91"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/applications",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515671853,
+            "changeTime": 1590515671853,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/aura",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515671853,
+            "changeTime": 1590515671853,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/classes",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515671853,
+            "changeTime": 1590515671853,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515671853,
+            "changeTime": 1590515671853,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515671853,
+            "changeTime": 1590515671853,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1590528003572,
+            "changeTime": 1590528003572,
+            "contentHash": "1298b309177eed2bfef730c12fd4412cc1d47773"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/lwc",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515679250,
+            "changeTime": 1590515679250,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1590528003564,
+            "changeTime": 1590528003564,
+            "contentHash": "7282d307d56349c831b1c8787a35dedf2b041857"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515671853,
+            "changeTime": 1590515671853,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515671853,
+            "changeTime": 1590515671853,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/tabs",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515671853,
+            "changeTime": 1590515671853,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/triggers",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515671853,
+            "changeTime": 1590515671853,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle",
+        {
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1590515760742,
+            "changeTime": 1590515760742,
+            "contentHash": "21412b07cfbd961f7098e6358c18f0701e79d17c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/objects/FeatureFlag__mdt/FeatureFlag__mdt.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/objects/FeatureFlag__mdt/FeatureFlag__mdt.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 316,
+            "modifiedTime": 1590528003565,
+            "changeTime": 1590528003565,
+            "contentHash": "1bc45a4b6f70b6b6d6ab8bfb5ea45b4d2176baa1"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/objects/FeatureFlag__mdt/fields/IsEnabled__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/objects/FeatureFlag__mdt/fields/IsEnabled__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 447,
+            "modifiedTime": 1590528003566,
+            "changeTime": 1590528003566,
+            "contentHash": "8a32a8e065154d3b02934a8eb2168e8b057abe17"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/layouts/FeatureFlag__mdt-Feature Toggle Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/layouts/FeatureFlag__mdt-Feature Toggle Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2338,
+            "modifiedTime": 1590528003572,
+            "changeTime": 1590528003572,
+            "contentHash": "6b24c5040bc80c99f5ec656ffa87ef711198633f"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19822,
+            "modifiedTime": 1590528003591,
+            "changeTime": 1590528003591,
+            "contentHash": "4288900e9d218d4c280d0d11ac8bd312f98b7b8f"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4725,
+            "modifiedTime": 1590528003595,
+            "changeTime": 1590528003595,
+            "contentHash": "de6591b4fe17de3d2b9c595114409a48031b1029"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5063,
+            "modifiedTime": 1590528003599,
+            "changeTime": 1590528003599,
+            "contentHash": "79986a06c0efbc0238f330d191ffc1c25427c9ba"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4725,
+            "modifiedTime": 1590528003602,
+            "changeTime": 1590528003602,
+            "contentHash": "de6591b4fe17de3d2b9c595114409a48031b1029"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/objects/FeatureFlag__mdt",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/objects/FeatureFlag__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1590528003566,
+            "changeTime": 1590528003566,
+            "contentHash": "abc7de3351f62c2f78e6cf561c6ace6415d44188"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/objects/FeatureFlag__mdt/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/objects/FeatureFlag__mdt/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1590528003566,
+            "changeTime": 1590528003566,
+            "contentHash": "81aa6853c5c0514f519e50a316f566ad7cdebadc"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ApexFeatureToggle/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1590528003602,
+            "changeTime": 1590528003602,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
