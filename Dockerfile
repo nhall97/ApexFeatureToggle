@@ -36,4 +36,5 @@ RUN echo 'y' | sfdx plugins:install @dxatscale/sfpowerscripts
   #Auth against org (JWT token)
 
 #Static code analysis
+WORKDIR /app
 RUN sfdx sfpowerkit:source:pmd
